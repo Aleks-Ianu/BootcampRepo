@@ -1,2 +1,0 @@
-# BootcampRepo
-Repository for BootCamp
